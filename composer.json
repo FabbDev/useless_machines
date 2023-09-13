@@ -5,10 +5,7 @@
     "require": {
     },
     "conflict": {
-        "drupal/geysir": "*",
-        "drupal/openy_inline_editing": "*",
-        "drupal/quickedit": "*",
-        "drupal/rdf": "*"
+        "drupal/openy_inline_editing": "*"
     },
     "license": "GPL-3.0-or-later",
     "minimum-stability": "dev"
